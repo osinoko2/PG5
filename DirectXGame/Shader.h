@@ -5,7 +5,6 @@
 #include <d3dcompiler.h> // dxcapi.hが依存している
 #include <dxcapi.h>      // IDXcBlobを利用するため
 #pragma comment(lib, "dxcompiler.lib")
-//#include <d3d12.h>
 
 class Shader {
 public:
